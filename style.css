@@ -9,7 +9,7 @@ body{
 p{
     font-family: 'Cormorant Garamond',sans-serif;
 }
-section{
+.elements{
     display:flex;
     padding-left: 20px;
     padding-right: 0px;
@@ -31,4 +31,7 @@ section{
     padding: 10px 20px;
     border-radius: 5px;
 
+}
+.flower{
+    padding-top: 0px;
 }
