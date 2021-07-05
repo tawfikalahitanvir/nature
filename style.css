@@ -39,6 +39,7 @@ p{
     margin-right: 5%;
     margin-bottom: 5%;
     box-shadow: 10px 10px 10px 10px #006400;
+    border-radius: 2px;
 }
 #animals{
     color: #0000ff;
@@ -49,4 +50,17 @@ p{
 #element-shadow{
     color: #483d8b; 
     padding-left: 30px;
+}
+.plant{
+    border-left: 7px solid;
+    border-image: linear-gradient(#0000ff,#ff0000);
+    border-image-slice: 1;
+}
+.animal{
+    border-left: 7px solid;
+    border-image:linear-gradient(#800080,#ff6347);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
 }
