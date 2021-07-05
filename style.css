@@ -32,6 +32,21 @@ p{
     border-radius: 5px;
 
 }
-.flower{
-    padding-top: 0px;
+.shadow{
+    width:40%;
+    margin-left: 2%;
+    padding-left: 2%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    box-shadow: 10px 10px 10px 10px #006400;
+}
+#animals{
+    color: #0000ff;
+}
+#plants{
+    color: #006400;
+}
+#element-shadow{
+    color: #483d8b; 
+    padding-left: 30px;
 }
